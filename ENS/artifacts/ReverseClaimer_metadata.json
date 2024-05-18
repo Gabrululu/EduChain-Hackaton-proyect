@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "contract ENS",
+						"name": "ens",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "claimant",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ENS/ReverseClaimer.sol": "ReverseClaimer"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ENS/ENS.sol": {
+			"keccak256": "0xec749c06b0defba265ca21d5445ef240a3c6a2eeef8a8996e5711c9191cd41ed",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b3babc502ccb7c64e2dbac9654527d21c5ead638f2398fd8042ead2338b51941",
+				"dweb:/ipfs/QmdWFfd2jzHUTeyDdyAaUxAaYrWV7hq9afobeNMxaNZCtW"
+			]
+		},
+		"ENS/IReverseRegistrar.sol": {
+			"keccak256": "0xb16f2d1592634fde6abe614d7427c35bacce09647672fb4fbba817ed5127b858",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9cc460f9009cffbff9de5f076326a01de157b81dfc0772cb38f75fdc8dd99cfd",
+				"dweb:/ipfs/QmQ3NpfDzfCfzXtNgMVrpGTKXKsehfqgEL2dKs6fhZtADZ"
+			]
+		},
+		"ENS/ReverseClaimer.sol": {
+			"keccak256": "0xda8997df0d6656651826f1fc1089469344863fa7a5674b1c29cee52c5c5074db",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e05739bccc5dbf511ae95f2757e41313c45ba973004737b76aabc9aa3325bc46",
+				"dweb:/ipfs/QmSBVK4GnRAcTqy7fQF5P39FhwwnQe8a9jBu8f7fEEocqT"
+			]
+		}
+	},
+	"version": 1
+}

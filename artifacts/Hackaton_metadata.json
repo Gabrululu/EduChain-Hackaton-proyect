@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_hash",
+						"type": "string"
+					}
+				],
+				"name": "getHash",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_hash",
+						"type": "string"
+					}
+				],
+				"name": "setHash",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"prueba.sol": "Hackaton"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"prueba.sol": {
+			"keccak256": "0xa742c88456c722a48354b1af18c61a99771e256c71384bb5e38a0b7c513223d3",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://7a1de13b487f37840452325f8b19012b87d1aee37fef60fba6091dd3f3066b39",
+				"dweb:/ipfs/QmcjdXNSL8cpjPmCrYEccxVjk6jA8i2nRQr68KpxfFL85k"
+			]
+		}
+	},
+	"version": 1
+}

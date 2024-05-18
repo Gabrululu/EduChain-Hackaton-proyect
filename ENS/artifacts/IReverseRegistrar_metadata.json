@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "owner",
+						"type": "address"
+					}
+				],
+				"name": "claim",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ENS/IReverseRegistrar.sol": "IReverseRegistrar"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ENS/IReverseRegistrar.sol": {
+			"keccak256": "0xb16f2d1592634fde6abe614d7427c35bacce09647672fb4fbba817ed5127b858",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9cc460f9009cffbff9de5f076326a01de157b81dfc0772cb38f75fdc8dd99cfd",
+				"dweb:/ipfs/QmQ3NpfDzfCfzXtNgMVrpGTKXKsehfqgEL2dKs6fhZtADZ"
+			]
+		}
+	},
+	"version": 1
+}
