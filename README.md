@@ -4,7 +4,7 @@ Let's hacker and enjoy the process💻
 
 Scroll Sepolia
 Utilizamos esta red por la rapidez, escabilidad, seguridad y transparencia que nos brinda para desplegar las funcionalidades de la plataforma
-https://ubiquitous-space-zebra-qgg4xqg4v9jcxp54.github.dev/
+
 
 
 #Token desplegado Contrato: 0xFE9272fFC5CFC6404144Da86d389B5Fb082930B4 
@@ -19,7 +19,7 @@ Scroll Etherscan: https://sepolia.scrollscan.dev/address/0xB69B3b8987D84A975e560
 ENS domain
 Añadiremos estas funciones a nuestra plataforma para poder tener una mejor experiencia al momento de interactuar con nuestro perfil.
 Además de tener la posibilidad de añadir subdominios que facilitará la experiencia del usuario al momento de realizar ciertas acciones dentro de la plataforma. 
-https://ominous-spork-pqqw6rqpv473r6px.github.dev/
+
 
 Unlock Protocol
 Con esta membresía se tendrá acceso exclusivo a la demo de la plataforma
